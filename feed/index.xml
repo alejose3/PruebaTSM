@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Transporte TSM</title>
+	<atom:link href="/https://alejose3.github.io/pruebaTSM/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://alejose3.github.io/pruebaTSM</link>
+	<description>Otro sitio de WordPress</description>
+	<lastBuildDate>Thu, 07 Nov 2019 13:40:18 +0000</lastBuildDate>
+	<language>es-CL</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<item>
+		<title>4 entrada de prueba</title>
+		<link>/https://alejose3.github.io/pruebaTSM/2019/11/07/4-entrada-de-prueba/</link>
+				<pubDate>Thu, 07 Nov 2019 13:38:51 +0000</pubDate>
+		<dc:creator><![CDATA[alejose3]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">/https://alejose3.github.io/pruebaTSM/?p=43</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+										</item>
+		<item>
+		<title>Tercer post de prueba</title>
+		<link>/https://alejose3.github.io/pruebaTSM/2019/11/07/tercer-post-de-prueba/</link>
+				<pubDate>Thu, 07 Nov 2019 13:37:36 +0000</pubDate>
+		<dc:creator><![CDATA[alejose3]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">/https://alejose3.github.io/pruebaTSM/?p=41</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+										</item>
+		<item>
+		<title>Segundo post</title>
+		<link>/https://alejose3.github.io/pruebaTSM/2019/11/07/segundo-post/</link>
+				<pubDate>Thu, 07 Nov 2019 13:37:18 +0000</pubDate>
+		<dc:creator><![CDATA[alejose3]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">/https://alejose3.github.io/pruebaTSM/?p=39</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+										</item>
+		<item>
+		<title>¡Hola mundo!</title>
+		<link>/https://alejose3.github.io/pruebaTSM/2019/11/06/hola-mundo/</link>
+				<comments>/https://alejose3.github.io/pruebaTSM/2019/11/06/hola-mundo/#comments</comments>
+				<pubDate>Wed, 06 Nov 2019 18:43:24 +0000</pubDate>
+		<dc:creator><![CDATA[alejose3]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">/https://alejose3.github.io/pruebaTSM/?p=1</guid>
+				<description><![CDATA[Bienvenido(a) a WordPress. Esta es tu primera entrada. Edítala o bórrala ¡y comienza a publicar!]]></description>
+								<content:encoded><![CDATA[
+<p>Bienvenido(a) a WordPress. Esta es tu primera entrada. Edítala o bórrala ¡y comienza a publicar!</p>
+]]></content:encoded>
+							<wfw:commentRss>/https://alejose3.github.io/pruebaTSM/2019/11/06/hola-mundo/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+							</item>
+	</channel>
+</rss>

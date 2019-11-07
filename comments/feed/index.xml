@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentarios para Transporte TSM	</title>
+	<atom:link href="/https://alejose3.github.io/pruebaTSM/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://alejose3.github.io/pruebaTSM</link>
+	<description>Otro sitio de WordPress</description>
+	<lastBuildDate>Thu, 07 Nov 2019 13:40:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+			<item>
+				<title>
+				Comentario en ¡Hola mundo! por Un Comentarista de WordPress				</title>
+				<link>/https://alejose3.github.io/pruebaTSM/2019/11/06/hola-mundo/#comment-1</link>
+		<dc:creator><![CDATA[Un Comentarista de WordPress]]></dc:creator>
+		<pubDate>Wed, 06 Nov 2019 18:43:24 +0000</pubDate>
+		<guid isPermaLink="false">/https://alejose3.github.io/pruebaTSM/?p=1#comment-1</guid>
+					<description><![CDATA[Hola, este es un comentario.
+Para empezar con la moderación, edición y eliminación de comentarios, por favor visita la pantalla de comentarios en el panel inicial.
+Los Avatares de los comentaristas provienen de &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+		<content:encoded><![CDATA[<p>Hola, este es un comentario.<br />
+Para empezar con la moderación, edición y eliminación de comentarios, por favor visita la pantalla de comentarios en el panel inicial.<br />
+Los Avatares de los comentaristas provienen de <a href="https://gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+						</item>
+			</channel>
+</rss>
